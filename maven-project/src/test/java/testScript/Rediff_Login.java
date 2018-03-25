@@ -18,7 +18,7 @@ public class Rediff_Login {
 	driver.navigate().back();
 	driver.findElement(By.partialLinkText("Forgot")).click();
 
-	System.out.println("Working fine");
+	//System.out.println("Working fine");
 
 
 	}
